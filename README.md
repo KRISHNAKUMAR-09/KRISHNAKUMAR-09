@@ -1,3 +1,5 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 # 💫 About Me:
 An energetic and results-driven professional seeking a role for  Entry-Level Data Statistics | Data Analytics | Machine Learning Engineer position. 
 Proficiency with Statistics |Python | R | Excel | SQL I Power BI | Tableau |  ML | AI |Deep Learning | NLP
