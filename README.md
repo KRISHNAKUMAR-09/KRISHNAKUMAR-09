@@ -1,3 +1,9 @@
+[![MasterHead](https://thethinkcloud.co/wp-content/uploads/2020/07/data-presentation.gif)](https://KRISHNAKUMAR-09.io)
+
+<h1 align="center">Hi 👋, I'm KRISHNAKUMAR</h1>
+<h3 align="center">Aspiring “DATA SCIENTISTS”</h3>
+
+<img align= "right" alt="Coding" width= "400" src="https://media.istockphoto.com/id/1349561701/video/4k-data-science-animated-tag-word-cloud-text-design-animation-seamless-loop.jpg?b=1&s=640x640&k=20&c=rKu2lM8i-ZHJWo9J9g8_nD3v305pLHKvdmst7zBXZwk=">
 
 # 💫 About Me:
 An energetic and results-driven professional seeking a role for  Entry-Level Data Statistics | Data Analytics | Machine Learning Engineer position. 
